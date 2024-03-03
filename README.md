@@ -6,7 +6,7 @@ In this challenge, I created a social network API that i can API POST, PUT, and 
 
 ## Installation
 
-I used visual studio code to create this code.
+I used visual studio code to create this api as well as insomnia to test it.
 
 ## Screenshot
 
