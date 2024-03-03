@@ -12,6 +12,10 @@ I used visual studio code to create this api as well as insomnia to test it.
 
 <img src="apiscreenshot.png">
 
+## Video Demo
+
+https://app.screencastify.com/v3/watch/I2gCPjvfzrvpcfAsUphD
+
 ## Credits
 
 N/A
