@@ -10,7 +10,7 @@ I used visual studio code to create this code.
 
 ## Screenshot
 
-*code here*
+<img src="apiscreenshot.png">
 
 ## Credits
 
